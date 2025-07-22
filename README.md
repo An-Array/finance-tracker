@@ -23,15 +23,16 @@ A clean and simple terminal-based finance tracker that helps you record, view, a
 
 ## 📂 Project Structure
 
+```bash
 finance-tracker/
 ├── app/
-│ ├── add_transaction.py # Add a transaction
-│ ├── file_to_db.py # Add csv transactions to database
-│ ├── view_summary.py # View and summarize
-│ └── visualize.py # Visualization of income and expenditure
+│   ├── add_transaction.py          # Add a transaction
+│   ├── file_to_db.py               # Add CSV transactions to database
+│   ├── view_summary.py             # View and summarize
+│   └── visualize.py                # Visualization of income and expenditure
 ├── data/
-│ ├── finance.db 
-│ └── sample_data.csv 
+│   ├── finance.db
+│   └── sample_data.csv
 ├── create_db.py
 └── README.md
 
