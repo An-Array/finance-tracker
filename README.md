@@ -35,7 +35,7 @@ finance-tracker/
 │   └── sample_data.csv
 ├── create_db.py
 └── README.md
-
+```
 ---
 
 ## 🧪 How to Run
