@@ -24,10 +24,10 @@ A clean and simple terminal-based finance tracker that helps you record, view, a
 ## 📊 Visualizations
 
 ### Monthly Expenses Overview
-![Monthly Expenses](visualization/monthly_expenses.png)
+![Monthly Expenses](visualizations/monthly_expenses.png)
 
 ### Expenses by Category
-![Expenses by Category](visualization/expenses_categories.png)
+![Expenses by Category](visualizations/expenses_categories.png)
 
 ---
 
